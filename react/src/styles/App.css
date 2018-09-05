@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container: {
+	display: 'flex';
+	
+}
+.textField: {
+	margin: 1em;
+	width: 200;
+}
+.menu: {
+    width: 200;
+}
